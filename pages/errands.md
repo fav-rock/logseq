@@ -4,13 +4,14 @@ title: Errands
 
 ## **Trader Joes**
 ### bananas
-### cream
-### yogurt
-### frozen dinner
-### bread
-### jelly
+### blueberries
 ### cheese
 ### hummus
+### yogurt
+### frozen dinners
+### RX bars
+### jelly
+### jelly
 ## **Sprouts**
 ### berries
 ### bananas
