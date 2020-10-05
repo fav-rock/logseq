@@ -2,8 +2,7 @@
 title: Errands
 ---
 
-## a
-### **Trader Joes**
+## **Trader Joes**
 ### bananas
 ### cream
 ### yogurt
@@ -12,9 +11,40 @@ title: Errands
 ### jelly
 ### cheese
 ### hummus
-###
-##
-##
-##
-##
-##
+## **Sprouts**
+### berries
+### bananas
+### frozen dinners
+## **Escondido**
+### Jimbos - granola, jelly
+### Chiro
+### Bonnie
+## **Ralphs**
+### water
+## **Wal Mart, Target**
+### baggies
+### pepper
+### tissue
+### floss trees
+### water
+### hand towels
+### butane
+### bucket, collapsible
+### blackout material (for window covers)
+## **Home Depot**
+### hardware (machine screws, washers, etc.)
+### paper towels, blue
+### magnets
+### spray adhesive, Loctite (for window covers)
+### LATER
+#### reading glasses
+#### magnetic strip
+## &&&&&&&&&&&&&&&&
+## **Household**
+### memo book
+### tee shirts
+### Bon Ami
+## **Van**
+### heating blanket, 12V
+### cargo net (netting)
+### magnetic strip
