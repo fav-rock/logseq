@@ -15,6 +15,7 @@ title: Errands
 ### berries
 ### bananas
 ### frozen dinners
+## ~~~~~~~~
 ## **Escondido**
 ### Jimbos - granola, jelly
 ### Chiro
@@ -39,7 +40,7 @@ title: Errands
 ### LATER
 #### reading glasses
 #### magnetic strip
-## &&&&&&&&&&&&&&&&
+## ~~~~~~~~
 ## **Household**
 ### memo book
 ### tee shirts
@@ -48,3 +49,5 @@ title: Errands
 ### heating blanket, 12V
 ### cargo net (netting)
 ### magnetic strip
+## ~~~~~~~~
+## Keywords:: #food #van #travel
