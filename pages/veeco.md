@@ -6,7 +6,4 @@ title: Veeco
 ## David Ogilvie
 ## Director of Engineering
 ## attended college in England
-## David Ogilvie
-## Director of Engineering
-## Director of Engineering
-## attended college in England
+## https://www.linkedin.com/in/david-ogilvie-43459a14/
