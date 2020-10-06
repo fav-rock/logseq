@@ -10,5 +10,3 @@ title: INBOX
 ## create a graphics sample - GEN2000 - Adobe Illustrator
 ## cut fruit
 ##
-##
-##
