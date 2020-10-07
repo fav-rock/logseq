@@ -3,7 +3,7 @@ title: Solomon Page
 ---
 
 ## onboarding
-### 2p - 240p
+###
 ### chips
 ### careful - no undo!
 ###
