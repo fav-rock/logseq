@@ -8,6 +8,9 @@ title: Errands
 ### cheese
 ### hummus
 ### yogurt
+### cheese
+### hummus
+### yogurt
 ### jelly
 ## **Sprouts**
 ### berries
