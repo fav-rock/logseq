@@ -8,9 +8,11 @@ title: INBOX
 ## export from Roam
 ## paint my room
 ## create a graphics sample - GEN2000 - Adobe Illustrator
+##
+##
+##
 ## Josh and Daniel fly to Phoenix - Nov 15? #family #travel #quartzsite
-##
-##
+## Logseq - learn tables in Logseq - markdown?
 ##
 ##
 shower
