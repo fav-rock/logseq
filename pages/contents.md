@@ -1,6 +1,6 @@
 ## [[INBOX]]
 ## [[Oct 4th, 2020]]
+## [[Oct 7th, 2020]]
 ## [[Errands]]
 ## [[Veeco]]
 ## [[Solomon Page]]
-##
