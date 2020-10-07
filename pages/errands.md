@@ -8,14 +8,12 @@ title: Errands
 ### cheese
 ### hummus
 ### yogurt
-### frozen dinners
-### RX bars
-### jelly
 ### jelly
 ## **Sprouts**
 ### berries
 ### bananas
-### frozen dinners
+### frozen dinner - 1 ea.
+### chips
 ## ~~~~~~~~
 ## **Escondido**
 ### Jimbos - granola, jelly
