@@ -2,15 +2,17 @@
 title: Errands
 ---
 
-## **Trader Joes**
-### bananas
+## **Sprouts**
+### chips
 ### blueberries
-### cheese
-### hummus
-### yogurt
-### cheese
-### hummus
-### yogurt
+### bananas
+### frozen dinner - 2 ea.### cash back - two $10 (for Warren)
+## **Trader Joes**
+### blueberries
+### bananas
+### cash back - two $10 (for Warren)
+)
+yogurt
 ### jelly
 ## **Sprouts**
 ### berries
