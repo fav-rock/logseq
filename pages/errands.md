@@ -2,24 +2,23 @@
 title: Errands
 ---
 
+## **Ralphs**
+### water
 ## **Sprouts**
 ### chips
 ### blueberries
 ### bananas
 ### frozen dinner - 2 ea.### cash back - two $10 (for Warren)
+## ~~~~~~~~
 ## **Trader Joes**
 ### blueberries
 ### bananas
 ### cash back - two $10 (for Warren)
-)
-yogurt
-### jelly
-## **Sprouts**
-### berries
-### bananas
-### frozen dinner - 1 ea.
-### chips
-## ~~~~~~~~
+## **Escondido**
+### Jimbos - granola, jelly
+### Chiro
+### Bonnie - Grand Sign Lighting
+~~~
 ## **Escondido**
 ### Jimbos - granola, jelly
 ### Chiro
