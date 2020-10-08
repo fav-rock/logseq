@@ -6,31 +6,29 @@ title: Errands
 ### water
 ## **Sprouts**
 ### chips
+### frozen dinners - 2 ea.
 ### blueberries
 ### bananas
-### frozen dinner - 2 ea.### cash back - two $10 (for Warren)
+### cash back - $10s (for Warren)
+## **Escondido**
+### Jimbos - granola, jelly
+### Chiro
+### Grand Sign Lighting
 ## ~~~~~~~~
 ## **Trader Joes**
 ### blueberries
 ### bananas
 ### cash back - two $10 (for Warren)
-## **Escondido**
-### Jimbos - granola, jelly
-### Chiro
-### Bonnie - Grand Sign Lighting
 ~~~
 ## **Escondido**
-### Jimbos - granola, jelly
-### Chiro
+###
+### water
 ### Bonnie
-## **Ralphs**
-### water
-## **Wal Mart, Target**
+## **
+
+l Mart, Target**
 ### baggies
-### pepper
-### tissue
-### floss trees
-### water
+### p
 ### hand towels
 ### butane
 ### bucket, collapsible
