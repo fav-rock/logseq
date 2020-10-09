@@ -12,7 +12,7 @@ title: INBOX
 ## Logseq - learn tables in Logseq - markdown?
 ## Logseq - move Veeco notes into their own folder
 ## Logseq - strategy for Veeco vs Personal
-##
+### delete notes from GitHub - data safety
 ##
 ##
 ##

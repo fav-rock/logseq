@@ -5,9 +5,13 @@ title: Veeco
 ## About
 ### https://en.wikipedia.org/wiki/Veeco
 ###
+###
+## People
+### [[David Ogilvie]]
+### [[Larry Matthysse]]
+### other tech writer up north
 ##
-## 8a Monday, Oct 5 interview
-## David Ogilvie
+## 8a Monday, Oct 5th, 2020 - interview with David
 ## Director of Engineering
 ## attended college in England
 ## https://www.linkedin.com/in/david-ogilvie-43459a14/
