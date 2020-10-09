@@ -4,14 +4,15 @@ title: Veeco
 
 ## About
 ### https://en.wikipedia.org/wiki/Veeco
-###
-###
+### Ultratech
+####
 ## People
 ### [[David Ogilvie]]
 ### [[Larry Matthysse]]
 ### other tech writer up north
 ##
-## 8a Monday, Oct 5th, 2020 - interview with David
+## contract job thru [[Solomon Page]]
+h, 2020 - interview with David
 ## Director of Engineering
 ## attended college in England
 ## Director of Engineering
@@ -21,9 +22,19 @@ title: Veeco
 ##
 ## lithography
 ### learn
-#### https://www.nikon.com/about/technology/product/semiconductor/index.htm#:~:text=A%20semiconductor%20lithography%20system%20undertakes,substrate%20known%20as%20a%20wafer
-#### https://spie.org/publications/fg06_p1-2_semiconductor_lithography?SSO=1
-### Veeco lithography products
+#### https://www.nikon.com/a
+### Veeco lithography systems
+#### AP200
+#### AP300
+#### AP = advanced packaging
+#### https://www.veeco.com/products/ap200-300-lithography-systems
+####
+####
+dertakes,substrate%20known%20as%20a%20wafer
+#### https://spie.org/publications/fg06_p1-2_semic
+### Advanced Packaging (AP)
+## History
+raphy products
 #### https://www.veeco.com/products/ap200-300-lithography-systems
 ###
 ###
