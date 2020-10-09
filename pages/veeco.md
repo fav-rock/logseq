@@ -14,6 +14,8 @@ title: Veeco
 ## 8a Monday, Oct 5th, 2020 - interview with David
 ## Director of Engineering
 ## attended college in England
+## Director of Engineering
+## attended college in England
 ## https://www.linkedin.com/in/david-ogilvie-43459a14/
 ## [[Solomon Page]]
 ##
